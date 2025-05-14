@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Rick C"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome to the visual graveyard of hopes, dreams, and cul-de-sacs. 
+  bio    : "Welcome to the visual graveyard of hopes, dreams, and cul-de-sacs." 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
